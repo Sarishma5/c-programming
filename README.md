@@ -1,3 +1,4 @@
 # c-programming
-length of a sentence.\n
+length of a sentence.
+
 no. guessing game.
